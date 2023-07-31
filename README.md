@@ -44,8 +44,6 @@ The website is built using the following technologies:
 
 5. Use the Contact page to get in touch with the Style&Wrap team, and messages will be processed via Firebase.
 
-## Credits
 
-This website was designed and developed by Vansh Malhotra to showcase frontend and backend web development skills. The AI/ML-based recommendation system backend is implemented using Python with appropriate AI/ML libraries, while user login and registration are connected with Firebase.
 
 For any questions or feedback, please feel free to contact vanshmalhotra353@gmail.com.
